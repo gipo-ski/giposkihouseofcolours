@@ -1,0 +1,34 @@
+[
+	{
+		"id": "1",
+		"title": "title 1",
+		"date": "date 1",
+		"description": "Lorem ipsum Animi voluptatem atque nemo nisi itaque ab quidem, exercitationem accusamus quae? Consequuntur, reiciendis!",
+		"thumbnailUrl": "/thumbnails/giposki-logo.png",
+		"photoUrl": "/images/mrNobody.png"
+	},
+	{
+		"id": "2",
+		"title": "title 2",
+		"date": "date 2",
+		"description": "Lorem ipsum Animi voluptatem atque nemo us quae? Consequuntur, reiciendis!",
+		"thumbnailUrl": "/thumbnails/giposki-logo.png",
+		"photoUrl": "/images/mrNobody.png"
+	},
+	{
+		"id": "3",
+		"title": "title 3",
+		"date": "date 3",
+		"description": "Lorem ipsum aque ab quidem, exercitationem e ab quidem, exercitationem accusamus accusamus quae? Consequuntur, reiciendis!",
+		"thumbnailUrl": "/thumbnails/giposki-logo.png",
+		"photoUrl": "/images/mrNobody.png"
+	},
+	{
+		"id": "4",
+		"title": "title 4",
+		"date": "date 4",
+		"description": "Lorem e ab quidem, exercitationem accusamus  accusamus quae? Consequuntur, reiciendis!",
+		"thumbnailUrl": "/thumbnails/giposki-logo.png",
+		"photoUrl": "/images/mrNobody.png"
+	}
+]
