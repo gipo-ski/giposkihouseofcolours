@@ -20,7 +20,7 @@ export default function Products() {
 						{products.map((product: Product) => (
 							<li
 								key={product.id}
-								className='bg-slate-300/90 p-4 m-4'
+								className='bg-slate-300/90 p-4 m-4 grid'
 							>
 								<div className='relative w-[375px] h-[450px] object-contain bg-slate-800 m-auto p-4 mt-10'>
 									<Image
@@ -37,7 +37,7 @@ export default function Products() {
 								</p>
 								<Link
 									href={`/products/${product.id}`}
-									className='text-2xl font-bold px-4 py-2 mb-2 hover:bg-slate-300 bg-slate-800 text-white hover:text-slate-800 rounded'
+									className='w-1/2 mx-auto text-2xl text-center font-bold px-8 py-2 mb-2 hover:bg-slate-300 bg-slate-800 text-white hover:text-slate-800 rounded'
 								>
 									{product.title}
 								</Link>

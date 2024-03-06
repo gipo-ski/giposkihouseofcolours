@@ -6,7 +6,7 @@ import logo from "../public/giposkilogoSMALL.png";
 
 export default function NavBar() {
 	return (
-		<nav className='flex h-20 items-center justify-between bg-slate-400 px-10 sticky top-0'>
+		<nav className='flex h-20 items-center justify-between bg-slate-400/95 px-10 sticky top-0 z-50'>
 			<div className='flex gap-2 items-center'>
 				<Link href={"/"}>
 					<Image
@@ -14,6 +14,7 @@ export default function NavBar() {
 						src={logo}
 						width={0}
 						height={0}
+						priority={true}
 						className='w-28 h-auto'
 					/>
 				</Link>
